@@ -1,7 +1,7 @@
 import socket
 
 def get_quote():
-    server_address = '127.0.0.1'  # Change this to the server IP address if needed
+    server_address = '192.168.204.128'  # Change this to the server IP address if needed
     server_port = 8888
     buffer_size = 1024
 
